@@ -72,3 +72,9 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma Issue ou um 
 ## Licença
 
 Este projeto está licenciado sob a **MIT License**.
+
+<div>
+    <p>
+        <img src="Badge-Conversor.png" height="300" tittle="site"> 
+    </p>
+</div>
